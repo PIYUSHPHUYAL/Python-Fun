@@ -1,0 +1,5 @@
+print("enter first number")
+a=input()
+print("enter second number")
+b=input()
+print("sum,difference,multiplication and division of {a} and {b} is",int(a)+int(b),int(a)-int(b),int(a)*int(b),int(a)/int(b))
